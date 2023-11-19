@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e795c43-f51a-40ee-880a-fdda1348daa0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapterSevenInDeitel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiceRolling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateElimination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnhancedStudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnhancedStudentGradeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabelArrayTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PollingFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SieveOfEratosthenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/ArrayBonusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/DiceRollingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/DuplicateEliminationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/FibonacciSeriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/SieveOfEratosthenesTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XwA9Ksrgi3nnjTm9biBgkAl6Zq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/logistics&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Polling">
+    <configuration name="DuplicateElimination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicateElimination" />
+      <module name="chapterSevenInDeitel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabelArrayTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabelArrayTable" />
+      <module name="chapterSevenInDeitel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polling" />
+      <module name="chapterSevenInDeitel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayBonusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapterSevenInDeitel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayBonusTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeriesTest.testThatFunctionReturnTheFibonacciNumberOfInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapterSevenInDeitel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeriesTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnTheFibonacciNumberOfInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Polling" />
+        <item itemvalue="Application.DuplicateElimination" />
+        <item itemvalue="Application.LabelArrayTable" />
+        <item itemvalue="JUnit.FibonacciSeriesTest.testThatFunctionReturnTheFibonacciNumberOfInput" />
+        <item itemvalue="JUnit.ArrayBonusTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e795c43-f51a-40ee-880a-fdda1348daa0" name="Changes" comment="" />
+      <created>1699529617959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699529617959</updated>
+      <workItem from="1699529619075" duration="2168000" />
+      <workItem from="1699712431122" duration="23000" />
+      <workItem from="1699763624598" duration="13686000" />
+      <workItem from="1699784625870" duration="3164000" />
+      <workItem from="1699844618497" duration="6428000" />
+      <workItem from="1699930765708" duration="668000" />
+      <workItem from="1699963197013" duration="737000" />
+      <workItem from="1699988790682" duration="2902000" />
+      <workItem from="1700052791941" duration="854000" />
+      <workItem from="1700147084094" duration="6996000" />
+      <workItem from="1700201229048" duration="5760000" />
+      <workItem from="1700241022551" duration="28000" />
+      <workItem from="1700242019353" duration="68000" />
+      <workItem from="1700242101326" duration="13000" />
+      <workItem from="1700242163027" duration="9000" />
+      <workItem from="1700242242371" duration="65000" />
+      <workItem from="1700294535480" duration="8887000" />
+      <workItem from="1700317427430" duration="31000" />
+      <workItem from="1700317608618" duration="37000" />
+      <workItem from="1700319454498" duration="2414000" />
+      <workItem from="1700322429410" duration="245000" />
+      <workItem from="1700322691911" duration="136000" />
+      <workItem from="1700322931910" duration="1818000" />
+      <workItem from="1700324768770" duration="368000" />
+      <workItem from="1700325280336" duration="394000" />
+      <workItem from="1700326080258" duration="297000" />
+      <workItem from="1700326438945" duration="744000" />
+      <workItem from="1700327617972" duration="118000" />
+      <workItem from="1700356918665" duration="11119000" />
+      <workItem from="1700407866640" duration="34000" />
+      <workItem from="1700421026058" duration="555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/tests/FibonacciSeriesTest.java</url>
+          <line>9</line>
+          <properties class="FibonacciSeriesTest" method="testThatFunctionReturnTheFibonacciNumberOfInput">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
