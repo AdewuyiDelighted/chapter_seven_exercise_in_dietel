@@ -5,30 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e795c43-f51a-40ee-880a-fdda1348daa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapterSevenInDeitel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayBonus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiceRolling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateElimination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EnhancedStudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EnhancedStudentGradeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabelArrayTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PollingFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SieveOfEratosthenes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/ArrayBonusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/DiceRollingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/DuplicateEliminationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/FibonacciSeriesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/SieveOfEratosthenesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FiveBySixElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PixelQuantization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/PixelQuantizationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/VariableLengthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +50,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/logistics&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -84,7 +68,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Polling">
+  <component name="RunManager" selected="Application.FiveBySixElement">
     <configuration name="DuplicateElimination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateElimination" />
       <module name="chapterSevenInDeitel" />
@@ -92,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LabelArrayTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LabelArrayTable" />
+    <configuration name="FiveBySixElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FiveBySixElement" />
       <module name="chapterSevenInDeitel" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,20 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayBonusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PixelQuantizationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapterSevenInDeitel" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArrayBonusTest" />
+      <option name="MAIN_CLASS_NAME" value="PixelQuantizationTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeriesTest.testThatFunctionReturnTheFibonacciNumberOfInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PixelQuantizationTest.testThatPixelQuantiaztionAtTenthLevel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapterSevenInDeitel" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FibonacciSeriesTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnTheFibonacciNumberOfInput" />
+      <option name="MAIN_CLASS_NAME" value="PixelQuantizationTest" />
+      <option name="METHOD_NAME" value="testThatPixelQuantiaztionAtTenthLevel" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FiveBySixElement" />
+        <item itemvalue="JUnit.PixelQuantizationTest" />
+        <item itemvalue="JUnit.PixelQuantizationTest.testThatPixelQuantiaztionAtTenthLevel" />
         <item itemvalue="Application.Polling" />
         <item itemvalue="Application.DuplicateElimination" />
-        <item itemvalue="Application.LabelArrayTable" />
-        <item itemvalue="JUnit.FibonacciSeriesTest.testThatFunctionReturnTheFibonacciNumberOfInput" />
-        <item itemvalue="JUnit.ArrayBonusTest" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +158,13 @@
       <workItem from="1700356918665" duration="11119000" />
       <workItem from="1700407866640" duration="34000" />
       <workItem from="1700421026058" duration="555000" />
+      <workItem from="1700432712814" duration="659000" />
+      <workItem from="1700433445932" duration="68000" />
+      <workItem from="1700433587244" duration="33000" />
+      <workItem from="1700433695672" duration="70000" />
+      <workItem from="1700433806928" duration="249000" />
+      <workItem from="1700434133620" duration="60000" />
+      <workItem from="1700434287136" duration="79000" />
     </task>
     <servers />
   </component>
