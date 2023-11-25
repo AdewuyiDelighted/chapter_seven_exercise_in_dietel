@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e795c43-f51a-40ee-880a-fdda1348daa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FiveBySixElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PixelQuantization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/PixelQuantizationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/VariableLengthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcheryGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArcheryGameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeriesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TortoiseAndHare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TortoiseAndHareMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/ArcheryGameTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DuplicateElimination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateElimination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,54 +71,49 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FiveBySixElement">
-    <configuration name="DuplicateElimination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateElimination" />
+  <component name="RunManager" selected="Application.TortoiseAndHareMain">
+    <configuration name="ArcheryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArcheryGame" />
       <module name="chapterSevenInDeitel" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FiveBySixElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FiveBySixElement" />
+    <configuration name="ArcheryGameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArcheryGameMain" />
       <module name="chapterSevenInDeitel" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polling" />
+    <configuration name="FibonacciSeriesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeriesMain" />
       <module name="chapterSevenInDeitel" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PixelQuantizationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TortoiseAndHare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TortoiseAndHare" />
       <module name="chapterSevenInDeitel" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PixelQuantizationTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PixelQuantizationTest.testThatPixelQuantiaztionAtTenthLevel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TortoiseAndHareMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TortoiseAndHareMain" />
       <module name="chapterSevenInDeitel" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PixelQuantizationTest" />
-      <option name="METHOD_NAME" value="testThatPixelQuantiaztionAtTenthLevel" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FiveBySixElement" />
-        <item itemvalue="JUnit.PixelQuantizationTest" />
-        <item itemvalue="JUnit.PixelQuantizationTest.testThatPixelQuantiaztionAtTenthLevel" />
-        <item itemvalue="Application.Polling" />
-        <item itemvalue="Application.DuplicateElimination" />
+        <item itemvalue="Application.TortoiseAndHareMain" />
+        <item itemvalue="Application.TortoiseAndHare" />
+        <item itemvalue="Application.FibonacciSeriesMain" />
+        <item itemvalue="Application.ArcheryGameMain" />
+        <item itemvalue="Application.ArcheryGame" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +163,12 @@
       <workItem from="1700433806928" duration="249000" />
       <workItem from="1700434133620" duration="60000" />
       <workItem from="1700434287136" duration="79000" />
+      <workItem from="1700434435553" duration="884000" />
+      <workItem from="1700577334529" duration="34000" />
+      <workItem from="1700669104573" duration="680000" />
+      <workItem from="1700726316667" duration="904000" />
+      <workItem from="1700884951186" duration="4253000" />
+      <workItem from="1700889358122" duration="37726000" />
     </task>
     <servers />
   </component>
@@ -182,6 +186,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TortoiseAndHareMain.java</url>
+          <line>3</line>
+          <properties class="TortoiseAndHareMain" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

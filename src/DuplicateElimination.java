@@ -3,9 +3,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class DuplicateElimination {
-    public static void main(String[] args) {
-        System.out.println(Arrays.toString(collectInput()));
-    }
+
 
     public static int[] convertAllElementToMinusOne() {
         int[] array = new int[10];

@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 
 public class FibonacciSeries {
@@ -7,12 +8,14 @@ public class FibonacciSeries {
         int firstNum = 0;
         int secondNum = 1;
         int sum = 0;
-        addFibonacci.add(firstNum);
+       addFibonacci.add(firstNum);
         for (int index = 0; index < number; index++) {
             sum = firstNum + secondNum;
+            if(sum > number)break;
             addFibonacci.add(sum);
             secondNum = firstNum;
             firstNum = sum;
+
         }
         return addFibonacci;
     }

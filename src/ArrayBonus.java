@@ -1,9 +1,6 @@
 import java.util.Arrays;
 
 public class ArrayBonus {
-    public static void main(String[] args) {
-        System.out.println(Arrays.toString(showBestScore()));
-    }
     public static int[] setArray(){
         int [] array = new int[20];
         for(int index = 0; index < 10;index++){
