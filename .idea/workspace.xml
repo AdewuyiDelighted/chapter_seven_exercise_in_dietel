@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e795c43-f51a-40ee-880a-fdda1348daa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArcheryGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArcheryGameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FibonacciSeriesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TortoiseAndHare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TortoiseAndHareMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/ArcheryGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TurtleBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TurtleDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TurtleGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TurtleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TurtlePen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TurtlePosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/TurtleGraphicsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DuplicateElimination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateElimination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -71,14 +70,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TortoiseAndHareMain">
-    <configuration name="ArcheryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArcheryGame" />
-      <module name="chapterSevenInDeitel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TurtleMain">
     <configuration name="ArcheryGameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArcheryGameMain" />
       <module name="chapterSevenInDeitel" />
@@ -107,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TurtleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TurtleMain" />
+      <module name="chapterSevenInDeitel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TurtleMain" />
         <item itemvalue="Application.TortoiseAndHareMain" />
         <item itemvalue="Application.TortoiseAndHare" />
         <item itemvalue="Application.FibonacciSeriesMain" />
         <item itemvalue="Application.ArcheryGameMain" />
-        <item itemvalue="Application.ArcheryGame" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +168,12 @@
       <workItem from="1700726316667" duration="904000" />
       <workItem from="1700884951186" duration="4253000" />
       <workItem from="1700889358122" duration="37726000" />
+      <workItem from="1700946600834" duration="1652000" />
+      <workItem from="1700989736077" duration="20000" />
+      <workItem from="1701087662967" duration="615000" />
+      <workItem from="1701094290978" duration="1465000" />
+      <workItem from="1701103724839" duration="51000" />
+      <workItem from="1701103796821" duration="8634000" />
     </task>
     <servers />
   </component>
@@ -186,15 +191,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/TortoiseAndHareMain.java</url>
-          <line>3</line>
-          <properties class="TortoiseAndHareMain" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
