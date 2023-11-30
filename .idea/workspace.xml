@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e795c43-f51a-40ee-880a-fdda1348daa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TurtleBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TurtleDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TurtleGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TurtleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TurtlePen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TurtlePosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/TurtleGraphicsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeckOfCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeckOfCards.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TurtleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TurtleMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +67,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TurtleMain">
-    <configuration name="ArcheryGameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArcheryGameMain" />
+  <component name="RunManager" selected="Application.DeckOfCardTest">
+    <configuration name="DeckOfCardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeckOfCardTest" />
       <module name="chapterSevenInDeitel" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeckOfCardTest" />
         <item itemvalue="Application.TurtleMain" />
         <item itemvalue="Application.TortoiseAndHareMain" />
         <item itemvalue="Application.TortoiseAndHare" />
         <item itemvalue="Application.FibonacciSeriesMain" />
-        <item itemvalue="Application.ArcheryGameMain" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +170,12 @@
       <workItem from="1701087662967" duration="615000" />
       <workItem from="1701094290978" duration="1465000" />
       <workItem from="1701103724839" duration="51000" />
-      <workItem from="1701103796821" duration="8634000" />
+      <workItem from="1701103796821" duration="9282000" />
+      <workItem from="1701138020799" duration="1532000" />
+      <workItem from="1701157852849" duration="2111000" />
+      <workItem from="1701204618565" duration="593000" />
+      <workItem from="1701228881333" duration="1257000" />
+      <workItem from="1701307189910" duration="6875000" />
     </task>
     <servers />
   </component>
